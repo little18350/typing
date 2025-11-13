@@ -1,0 +1,31 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 30px;
+  background: #f4f6f8;
+}
+
+#wordContainer {
+  margin: 20px auto;
+  padding: 20px;
+  font-size: 24px;
+  background: white;
+  border-radius: 10px;
+  width: 60%;
+  box-shadow: 0 0 10px #ccc;
+}
+
+input {
+  padding: 10px;
+  font-size: 20px;
+  width: 60%;
+}
+
+#players div {
+  margin: 10px;
+  padding: 5px;
+  background: #fff;
+  border-radius: 5px;
+  display: inline-block;
+  width: 200px;
+}
